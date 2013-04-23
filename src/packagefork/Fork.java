@@ -14,6 +14,7 @@ public class Fork {
 	y=14;
 	int z=x-y;
 	System.out.println(z);
+System.out.println(hai);
 	}
 	public static void main(String a[]){
 		sum();
