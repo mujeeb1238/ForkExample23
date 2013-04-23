@@ -19,6 +19,15 @@ public class Fork {
 		sum();
                 sub();
 		System.out.println("Hello hai how r u");
+		System.out.println(mul(12,33));
 	}
+	
+	/*
+		this method is added by rahman
+	*/
+	public static int mul(int a, int b){
+		return a*b;
+	}
+	
 
 }
